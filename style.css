@@ -6,7 +6,6 @@ body {
 }
 a {
     color: #2e4859;
-    text-underline: 2px solid #2e4859;
 }
 p {
     color: #2e4859;
@@ -35,7 +34,6 @@ body.dark-mode {
 }
 body.dark-mode a {
     color: lightblue;
-    text-underline: 2px solid lightblue;
 }
 body.dark-mode h1 {
     color: lightblue;
